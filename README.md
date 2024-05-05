@@ -1,6 +1,6 @@
 <h1>
     <a href="https://github.com/niicolasaps/dio-lab-open-source/blob/main/README.md">
-     <img align="center" width="40px" src="https://hermes.digitalinnovation.one/assets/diome/logo-minimized.png"></a>
+     🔱
     <span> Nicolas Almeida Prado da Silva</span>
 </h1>
 
