@@ -1,5 +1,4 @@
 <h1>
-    <a href="https://github.com/niicolasaps/dio-lab-open-source/blob/main/README.md">
      🔱
     <span> Nicolas Almeida Prado da Silva</span>
 </h1>
